@@ -26,7 +26,7 @@ Discord Channel: https://discord.gg/KqNGRuMYVB
   He/Him
 
 # 🕹️Age
-  **15**
+  ***15***
   
 # ⚡ Fun Fact
   When I'm not coding, you'll probably find me exploring the latest video games.
