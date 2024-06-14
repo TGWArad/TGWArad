@@ -1,7 +1,4 @@
-
-Here's a revised version that includes the programming languages you know and your Discord contact info:
-
-👋 Hi, I’m Arad (@TGWArad)
+#👋 Hi, I’m Arad (@TGWArad)
 👀 About Me
 I'm a passionate computer programmer and avid gamer. I love diving into code and creating innovative solutions. My interests span across various areas of technology and gaming.
 
