@@ -31,6 +31,8 @@ Discord Channel: https://discord.gg/KqNGRuMYVB
 # ⚡ Fun Fact
   When I'm not coding, you'll probably find me exploring the latest video games.
 
+# ❤️I love you mom because of helping me in all of my hard situation in my life
+
 <!---
 TGWArad/TGWArad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
