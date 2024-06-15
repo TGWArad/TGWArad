@@ -20,6 +20,7 @@
 
 # 📫 Get in Touch
 Discord: tgw_arad
+
 Discord Channel: https://discord.gg/KqNGRuMYVB
 
 # 😄 Pronouns
