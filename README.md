@@ -42,7 +42,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-d1dd48cc9311.png" width="30" />&nbsp;
   Expert in **Web Development & AI Integration**<br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="30" />&nbsp;
-  Check out my website: **[arad.com](https://your-website.com)**
+  Check out my website: **arad.ws**
 </div>
 
 <!-- Animation 7: Animated Social Links -->
