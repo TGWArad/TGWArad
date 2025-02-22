@@ -1,17 +1,17 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Arad&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Arad!;Welcome+to+my+GitHub!&color=00bfbf" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Arad!;A+Full+Stack+Developer;AI+Enthusiast&color=00bfbf" />
 </div>
 
 <h3 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> 
-    A passionate 16-year-old Web Developer & AI Enthusiast 
+    A passionate 16-year-old Developer crafting the future with Code & AI 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">
 </h3>
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 <br/>
@@ -20,17 +20,22 @@
  
  🔭 I'm currently working on **Advanced AI Chatbots**
  
- 🌱 I'm currently exploring **AI/ML Technologies**
+ 🌱 I'm exploring the realms of **AI & Machine Learning**
 
- 💬 Skilled in **Node.js, JavaScript, HTML, CSS for Web Design**
+ 💬 Expert in **Web Development & AI Integration**
 
- ⚡ Fun fact: **Code is like humor. When you have to explain it, it's bad!**
+ 🌐 Check out my website: **[arad.com](https://your-website.com)**
+
+ ⚡ Fun fact: **I turn coffee into code and dreams into algorithms!**
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://TGWArad.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
@@ -41,34 +46,45 @@
  
 <h2 align="center">⚡ Technologies & Tools ⚡</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,ai" />
 </div>
 
 <br/>
 
+<!-- STATS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGWArad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGWArad&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TGWArad&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arad's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGWArad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<br/>
-
-<!-- Contribution Graph -->
+<!-- GRAPH -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <!-- Light Mode -->
+  <img width="97%" src="https://github-profile-trophy.vercel.app/?username=TGWArad&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <br><br>
+</div>
+
+<!-- SNAKE -->
+<div align="center">
+  <h2>🐍 Watch my Contribution Graph get eaten by the snake 🐍</h2>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg">
-    <!-- Dark Mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/><br/>
 </div>
 
+<!-- STREAK STATS -->
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGWArad&theme=dark&hide_border=true&background=0D1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideNums=00bfbf&currStreakNum=00bfbf"/>
+</div>
+
+<!-- VISITOR COUNTER -->
 <div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
@@ -76,27 +92,22 @@
   <br>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
-<hr/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=TGWArad&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TGWArad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TGWArad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!-- SPOTIFY -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5"/>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 
 <div align="center">
-<a href='https://ko-fi.com/TGWArad' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<br/> 
-<br/> 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/TGWArad/count.svg" />
+</p>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</div> 
