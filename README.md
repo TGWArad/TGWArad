@@ -64,17 +64,31 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
   <div align="center">
-    <h3>🤖 AI & ML Stack</h3>
+    <h3>🤖 AI & Machine Learning</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     
-    <h3>💻 Languages & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=react,tensorflow,pytorch,git,github&theme=dark" />
+    <h3>🎨 Web Development</h3>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+    <h3>🤖 Discord Development</h3>
+    <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    
+    <h3>⚙️ Tools & Platforms</h3>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </div>
 
   <br>
@@ -116,38 +130,16 @@
 
   <h2>
     <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="30">
-    Neural Network Activity
+    Contribution Snake
     <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="30">
   </h2>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TGWArad&custom_title=Arad's%20AI%20Development%20Activity&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true" width="100%">
 
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg" />
+  </picture>
 
-  <h2>
-    <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="30">
-    Connect & Collaborate
-    <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="30">
-  </h2>
-
-  <div align="center">
-    <a href="mailto:main@arad.ws">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://discord.gg/tgw_arad" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
-    </a>
-    <a href="https://TGWArad.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/AI_Portfolio-333333?style=for-the-badge&logo=tensorflow&logoColor=00bfbf" />
-    </a>
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
-  </div>
-  
   <br>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
