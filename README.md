@@ -2,9 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Arad&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full Stack Developer | AI Enthusiast&descSize=20&descAlignY=55"/>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%9F;Passionate+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%9F;Passionate+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
     </a>
   </div>
 
@@ -17,123 +17,104 @@
 
   <br>
 
-  <div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <table>
+  <table align="center">
     <tr>
       <td>
-        <h2 align="center">About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
-        <p align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhxOWJqY3E3NmQxbzB1OWhoY2VqZnBxc3Jya2t1ZHB0NjE4cjZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right"/>
+        <h2 align="center">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+        <div align="center">
+          <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" align="right"/>
           <br><br>
           <a href="https://github.com/TGWArad?tab=repositories">
             <img src="https://custom-icon-badges.demolab.com/badge/-🎯%20Currently%20working%20on%20AI%20&%20Web%20Development%20projects-1F222E?style=for-the-badge&logoColor=white&logo=rocket"/>
           </a>
-          <br>
+          <br><br>
           <a href="https://github.com/TGWArad?tab=repositories"> 
             <img src="https://custom-icon-badges.demolab.com/badge/-🌱%20Learning%20Advanced%20Machine%20Learning%20&%20Neural%20Networks-1F222E?style=for-the-badge&logoColor=white&logo=brain"/>
           </a>
-          <br>
+          <br><br>
           <a href="https://github.com/TGWArad?tab=repositories">
             <img src="https://custom-icon-badges.demolab.com/badge/-💡%20Always%20open%20to%20collaborating%20on%20projects-1F222E?style=for-the-badge&logoColor=white&logo=people"/>
           </a>
-          <br>
+          <br><br>
           <a href="https://github.com/TGWArad?tab=repositories">
             <img src="https://custom-icon-badges.demolab.com/badge/-⚡%20Fun%20fact-%20I%20code%20better%20with%20music%20🎵-1F222E?style=for-the-badge&logoColor=white&logo=music"/>
           </a>
-        </p>
+        </div>
       </td>
     </tr>
   </table>
 
-  <div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> 
-    My Tech Arsenal
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> 
+    Tech Stack & Tools
   </h2>
 
-  <h3>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Programming Languages
-  </h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TGWArad&theme=react&line_height=40&hide=css&layout=compact&bg_color=0d1117&title_color=00bfbf&hide_border=true"/>
 
-  <h3>
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30">
-    Frameworks & Tools
-  </h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </p>
+  <br><br>
 
-  <div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,py,html,css,nodejs,react,vscode,git,github,discord&perline=5&theme=dark" />
   </div>
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
     GitHub Statistics
   </h2>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TGWArad&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true">
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TGWArad&theme=github_dark&hide_border=true&title_color=00bfbf&text_color=00bfbf" width="100%"/>
+  </p>
   
   <p align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TGWArad&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arad's github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGWArad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TGWArad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TGWArad&theme=react&background=0d1117&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf"/>
   </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGWArad&theme=react&background=0d1117&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=ffffff"/>
-
   <h2>
-    <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30">
     GitHub Trophies
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=TGWArad&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=TGWArad&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
-  <div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h2>
     <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="30">
-    Contribution Graph
+    Activity Graph
   </h2>
-  <img src="https://github.com/TGWArad/TGWArad/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TGWArad&custom_title=Arad's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true" width="100%">
 
-  <div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h2>
     <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="30">
-    Connect With Me
+    Let's Connect
   </h2>
-  <p>
-    <a href="mailto:main@arad.ws">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://discord.gg/tgw_arad">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    <a href="https://TGWArad.github.io">
-      <img src="https://img.shields.io/badge/Website-00bfbf?style=for-the-badge&logo=google-chrome&logoColor=white">
-    </a>
-  </p>
 
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <a href="mailto:main@arad.ws">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://discord.gg/tgw_arad" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
+  <a href="https://TGWArad.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=00bfbf" />
+  </a>
+
+  <br><br>
+
+  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="200"/>
   
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div> 
