@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Arad&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full Stack Developer | AI Enthusiast&descSize=20&descAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=✨%20Arad%20✨&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=20&descAlignY=55"/>
 
   <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
@@ -92,6 +92,19 @@
   </h2>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TGWArad&custom_title=Arad's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true" width="100%">
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <h2>
+    <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="30">
+    Contribution Snake
+  </h2>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg" />
+  </picture>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
