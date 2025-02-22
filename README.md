@@ -1,7 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Arad&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full Stack Developer | AI Enthusiast&descSize=20&descAlignY=55"/>
 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%9F;Passionate+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
   </a>
@@ -17,21 +16,37 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <div style="display: inline_block">
-    <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhxOWJqY3E3NmQxbzB1OWhoY2VqZnBxc3Jya2t1ZHB0NjE4cjZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-    
-    <h3>About Me 🚀</h3>
-    <ul align="left">
-      <li>🎯 Currently working on AI & Web Development projects</li>
-      <li>🌱 Learning Advanced Machine Learning & Neural Networks</li>
-      <li>💡 Always open to collaborating on innovative projects</li>
-      <li>⚡ Fun fact: I code better with music 🎵</li>
-    </ul>
-  </div>
+  <table align="center">
+    <tr>
+      <td>
+        <h3 align="center">About Me 🚀</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+        </div>
+        <br>
+        <div align="left">
+          <p>🎯 Currently working on <b>AI & Web Development</b> projects</p>
+          <p>🌱 Learning <b>Advanced Machine Learning & Neural Networks</b></p>
+          <p>💡 Always open to <b>collaborating on innovative projects</b></p>
+          <p>⚡ Fun fact: I code better with music 🎵</p>
+          <p>🎨 Love to explore <b>new technologies</b></p>
+          <p>🌍 Dream of <b>making a global impact</b> through code</p>
+        </div>
+      </td>
+      <td>
+        <h3 align="center">Coding Time ⌨️</h3>
+        <div align="center">
+          <img width="350" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCoding.gif" />
+        </div>
+      </td>
+    </tr>
+  </table>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h2>🛠️ My Tech Arsenal</h2>
+  
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
   
   <h3>👨‍💻 Programming Languages</h3>
   <p>
@@ -62,21 +77,29 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGWArad&theme=react&background=0d1117&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=ffffff"/>
 
-  <h2>🏆 GitHub Trophies</h2>
+  <br>
+  
   <img src="https://github-profile-trophy.vercel.app/?username=TGWArad&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2>🐍 Contribution Graph</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TGWArad/TGWArad/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🌟 Skill Progress</h2>
+  
+  <p align="center">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/><br>
+  </p>
+  
+  ```text
+  JavaScript   ███████████████████░░░   85% 
+  Python       ████████████████████░░   90% 
+  HTML/CSS     ██████████████████░░░░   80% 
+  Node.js      ███████████████░░░░░░░   70% 
+  AI/ML        ████████████░░░░░░░░░░   50%
+  ```
 
   <h2>🤝 Connect With Me</h2>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="90px" />
+  <br><br>
   <a href="mailto:main@arad.ws">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -90,4 +113,6 @@
   <br><br>
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%"/>
 </div> 
